@@ -3,7 +3,7 @@
 - 🎓 Computer Science undergraduate at Amrita Vishwa Vidyapeetham (2022-Present).
 - 💡 Passionate about Full-Stack Development and AI integration.
 - 🛠 Skilled in building scalable web and mobile applications.
-- 🚀 Experienced in Java, Spring Boot, React, and AI-powered applications.
+- 🚀 Experienced in Java, React, Spring Boot, and AI-powered applications.
 - 🤝 Open to collaborations on AI-driven and web-based projects.
 - 💬 Ask me about Full-Stack Development, AI, and Competitive Programming.
 - 📫 Contact me at venkatacharanmurapala@gmail.com.
@@ -15,9 +15,11 @@
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -44,7 +46,7 @@
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatacharan22&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatacharan22&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatacharan22&layout=compact&langs_count=5&hide=other)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatacharan22)
 
 ## Achievements:
